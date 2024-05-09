@@ -1,2 +1,0 @@
-# labassignment
-part-a
